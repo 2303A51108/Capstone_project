@@ -1,0 +1,40 @@
+================================================================================
+SR UNIVERSITY - CAPSTONE PROJECT SOCIAL MEDIA POST TEMPLATES
+Authors: Kondapalli Devi Priyanka, Asmaja, Sarayu | Guide: Mr. Sallauddin Md
+================================================================================
+
+--- LINKEDIN POST TEMPLATE (Copy & Paste to your LinkedIn profile) ---
+
+🚀 Excited to share our Final-Year B.Tech Capstone Project at SR University, School of Computer Science and Artificial Intelligence!
+
+Title: CNC Tool Wear Detection in CNC Milling Operations Using Machine Learning ⚙️🤖
+
+In precision subtractive manufacturing, cutting with a dull tool ruins expensive aerospace/automotive parts and causes thousands of dollars in spindle damage. But external sensors cost over $20,000 and get destroyed by metal chips and coolant.
+
+Our team developed a completely sensorless, Explainable AI system that monitors cutting tool health by tapping into the CNC controller's existing internal drive signals (motor currents and axis positions) with ZERO extra hardware costs!
+
+💡 Key Project Highlights:
+✅ University of Michigan SMART Lab Dataset: 18 CNC milling experiments across 48 synchronized channels at 10 Hz.
+✅ 425-Feature Multi-Domain Pipeline: 9 statistical moments computed across 47 channels with unbiased sample variance (ddof=1) + operating feed rate and clamping pressure.
+✅ Rigorous LOOCV Benchmark: Evaluated across 7 ML models using Leave-One-Out Cross-Validation.
+✅ Champion Decision Tree Model: Achieved 77.78% Accuracy, 81.82% F1-Score, and a vital 90.00% Recall (catching 9 out of 10 worn tools)!
+✅ Explainable AI (XAI): Transparent physical decision rules linked directly to Z-axis cutting thrust deflection and CNC controller block delays.
+✅ Interactive Web Dashboard: Built a full-featured Streamlit application (app.py) for real-time shop-floor operator diagnostics.
+
+Huge thanks to our Capstone Project Guide & Coordinator, Mr. Sallauddin Md, Head of School Dr. CH. Sandeep, and Dean Dr. M. Sheshikala for their invaluable guidance and mentorship throughout this journey!
+
+Proud of my teammates Asmaja and Sarayu for the great collaboration!
+
+#MachineLearning #Industry40 #SmartManufacturing #PredictiveMaintenance #AIinManufacturing #ExplainableAI #CNC #DataScience #SRUniversity #EngineeringProjects #BTechCapstone
+
+--------------------------------------------------------------------------------
+
+--- TWITTER / X POST TEMPLATE ---
+
+Thrilled to present our B.Tech Capstone Project at @SRUniversity! 🚀
+"CNC Tool Wear Detection Using Machine Learning" ⚙️
+
+We built a sensorless AI system using internal CNC controller telemetry to predict tool wear with 90% Recall & full Explainable AI!
+
+#MachineLearning #Industry40 #AI
+================================================================================

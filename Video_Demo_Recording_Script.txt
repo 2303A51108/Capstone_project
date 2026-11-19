@@ -1,0 +1,23 @@
+================================================================================
+2-3 MINUTE SCREEN RECORDING & VIDEO DEMO SCRIPT
+Use Clipchamp, OBS Studio, or Windows Game Bar (Win + G) to record your screen!
+================================================================================
+
+[0:00 - 0:30] PART 1: INTRO (Show slide 1 or your face on camera)
+"Hello everyone and respected evaluators. My name is Kondapalli Devi Priyanka, along with my teammates Asmaja and Sarayu, under the guidance of Mr. Sallauddin Md at SR University, School of CS&AI. Today we present our project: CNC Tool Wear Detection in CNC Milling Operations Using Machine Learning."
+
+[0:30 - 1:00] PART 2: THE PROBLEM & MOTIVATION (Show PPT Architecture slide)
+"In CNC milling, tool breakage causes workpiece scrap and severe machine downtime. Traditional monitoring requires $20,000 external sensors that fail in coolant environments. Our system is completely sensorless—we use the CNC machine's own internal drive currents and axis positions from the University of Michigan SMART Lab dataset across 48 channels to detect tool condition in real time."
+
+[1:00 - 1:45] PART 3: LIVE STREAMLIT DASHBOARD DEMO (Open browser at http://localhost:8501)
+"Here is our live Streamlit dashboard.
+1. In the Telemetry Explorer, we can inspect real-time waveforms for X, Y, and Z axes and spindle currents.
+2. In the Tool Wear Prediction tab, the engine extracts 423 statistical moments with Bessel sample standard deviation (ddof=1) and appends process parameters, forming a 425-dimensional feature vector.
+3. When we click 'Run Tool Wear Prediction', our deployed Decision Tree model instantly classifies the tool condition as UNWORN (green) or WORN (red) with confidence probabilities."
+
+[1:45 - 2:20] PART 4: EXPLAINABLE AI & MODEL RESULTS (Show XAI and Benchmark tabs)
+"What makes our system unique is Explainable AI. The Decision Tree achieved 77.78% Accuracy and 90.00% Recall under rigorous Leave-One-Out Cross-Validation, outperforming complex ensembles. The tree explains its decision using physical mechanics: if minimum Z-axis depth is less than 27.60 mm, the tool cuts cleanly at nominal depth. If greater, upward thrust forces caused by a blunt tool deflect the spindle, triggering a wear alert."
+
+[2:20 - 2:40] PART 5: CONCLUSION
+"This system provides zero-cost, non-invasive, and trustworthy predictive maintenance for Industry 4.0 smart factories. Thank you!"
+================================================================================

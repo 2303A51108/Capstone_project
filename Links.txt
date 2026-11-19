@@ -1,0 +1,32 @@
+================================================================================
+SR UNIVERSITY - CAPSTONE PROJECT LINKS SUBMISSION FILE
+Submission to: md.sallauddin@sru.edu.in
+Candidate Name: Kondapalli Devi Priyanka (2303A51108)
+Team Members: Asmaja (2303A51011), Sarayu (2303A510A6)
+Project Title: CNC Tool Wear Detection in CNC Milling Operations Using Machine Learning
+Academic Year: 2026-2027
+================================================================================
+
+1. BLOG POST LINK:
+   Platform: [Medium / LinkedIn Articles / Dev.to]
+   URL: https://medium.com/@your_username/transforming-industry-4-0-explainable-ai-for-cnc-tool-wear-detection-xxxx
+
+2. SOCIAL MEDIA POSTS LINKS:
+   - LinkedIn Post URL: https://www.linkedin.com/posts/your_profile_xxxx
+   - Twitter / X Post URL (Optional): https://twitter.com/your_handle/status/xxxx
+
+3. DEMO VIDEO LINK:
+   Platform: [YouTube Unlisted / Google Drive Link]
+   URL: https://youtu.be/xxxx (or https://drive.google.com/file/d/xxxx/view)
+
+4. PROJECT CODE REPOSITORY (Optional / GitHub):
+   URL: https://github.com/your_username/CNC-Tool-Wear-Detection-ML
+
+================================================================================
+FILES ATTACHED IN SUBMISSION EMAIL:
+1. 2303A51108-Kondapalli Devi Priyanka Final Report.docx
+2. CNC_Tool_Wear_Detection_Presentation.pptx
+3. CNC_Tool_Wear_Detection_Poster.pptx
+4. Links.txt
+5. Company Offer / Completion Certificate (if applicable)
+================================================================================
